@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17685#Wandelingen-door-Elzas-LotharingenDe-Aarde-en-haar-Volken-1886
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2006-02-06'
 gutenberg_type: Text
